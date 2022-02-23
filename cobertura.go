@@ -1,4 +1,4 @@
-package main
+package covertura
 
 import (
 	"encoding/xml"
