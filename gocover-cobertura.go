@@ -1,4 +1,4 @@
-package covertura
+package cobertura
 
 import (
 	"encoding/xml"
